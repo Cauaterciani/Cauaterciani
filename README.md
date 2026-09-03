@@ -16,16 +16,30 @@ Sou estudante da **ETEC Fernando Prestes — Extensão Fatec**, em Sorocaba (SP)
 
 Meu aprendizado acontece principalmente na prática: desenho interfaces, construo APIs, modelo bancos de dados e conecto todas essas partes em aplicações funcionais. Gosto de entender o motivo por trás de cada decisão técnica e de transformar problemas grandes em entregas menores, claras e testáveis.
 
-- 👨‍💻 Atualmente desenvolvendo o **MENIT**, meu Trabalho de Conclusão de Curso
-- 🌱 Aprofundando conhecimentos em arquitetura Full Stack, APIs, segurança e infraestrutura
-- 🤝 Valorizo colaboração, comunicação clara e evolução contínua
-- 🎯 Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**
+- Atualmente desenvolvendo o **MENIT**, meu Trabalho de Conclusão de Curso
+- Aprofundando conhecimentos em arquitetura Full Stack, APIs, segurança e infraestrutura
+- Valorizo colaboração, comunicação clara e evolução contínua
+- Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**
 
 ## Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,postgres,prisma,git,github,linux,vscode&theme=dark&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Git, GitHub, Linux e Visual Studio Code" />
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Vite e Tailwind CSS" />
+
+<br><br>
+
+**Backend e dados**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma&theme=dark" alt="Node.js, Express, PostgreSQL e Prisma" />
+
+<br><br>
+
+**Ferramentas e infraestrutura**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux e Visual Studio Code" />
 
 <br><br>
 
@@ -35,7 +49,7 @@ Meu aprendizado acontece principalmente na prática: desenho interfaces, constru
 
 ## Projeto em destaque
 
-### 👻 MENIT — Plataforma social de comunicação em tempo real
+### MENIT — Plataforma social de comunicação em tempo real
 
 Projeto acadêmico em equipe que reúne autenticação, perfis, conexões, conversas e presença em tempo real em uma experiência responsiva com identidade visual própria.
 
@@ -66,7 +80,7 @@ Aprendizado     curiosidade, autonomia e disposição para receber feedback
 ## Outros trabalhos
 
 - [Portfólio de atividades e formação](https://github.com/Cauaterciani/Portifolio)
-- [Trabalho de Programação de Aplicativos Mobile](https://github.com/Cauaterciani/Trabalho-pam)
+- [Projeto acadêmico de desenvolvimento](https://github.com/Cauaterciani/Trabalho-pam)
 - [Todos os meus repositórios](https://github.com/Cauaterciani?tab=repositories)
 
 ## Vamos conversar?
