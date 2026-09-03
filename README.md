@@ -25,31 +25,11 @@ Meu aprendizado acontece principalmente na prática: desenho interfaces, constru
 
 <div align="center">
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,postgres,prisma,git,github,linux,vscode&theme=dark&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Git, GitHub, Linux e Visual Studio Code" />
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=646CFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+<br><br>
 
-**Backend e dados**
-
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=FFFFFF)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-111111?style=flat-square&logo=socketdotio&logoColor=FFFFFF)
-
-**Ferramentas e infraestrutura**
-
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-111111?style=flat-square&logo=oracle&logoColor=F80000)
-![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+<sub>TECNOLOGIAS QUE UTILIZO E CONTINUO APROFUNDANDO</sub>
 
 </div>
 
